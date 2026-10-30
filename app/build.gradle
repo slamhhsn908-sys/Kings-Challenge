@@ -7,7 +7,7 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.kingschallenge.game'
+        applicationId 'com.kingschallenge.game.v2'
         minSdk 23
         targetSdk 28
         versionCode 1
